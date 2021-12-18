@@ -17,7 +17,8 @@ function createBot() {
     spawning = true;
 
     let bot = mineflayer.createBot({
-        username: `TestMachine_${bots.length}`,
+        username: `pro_bot`,
+	password: `your_secure_password`
         server: "localhost",
         version: "1.16.4",
 		port: 50017,
