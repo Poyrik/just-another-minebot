@@ -15,4 +15,8 @@
         "sources": ["cobblestone"],
         "time": 0
     }
+    "netherite_scrap": {
+        "sources": ["ancieny_debris"],
+        "time": 0
+    }
 }
